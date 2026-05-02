@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "title": "学习计划",
+    "content": "本周学习LangChain",
+    "tags": [
+      "学习"
+    ],
+    "created_at": "2026-05-01T22:33:54.364315",
+    "updated_at": "2026-05-01T22:33:54.364315"
+  },
+  {
+    "id": 2,
+    "title": "学习 FastAPI",
+    "content": "今天开始学习 FastAPI，一个现代、快速的 Python Web 框架。",
+    "tags": [
+      "FastAPI",
+      "Python",
+      "Web开发"
+    ],
+    "created_at": "2026-05-01T22:52:31.822417",
+    "updated_at": "2026-05-01T22:52:31.822417"
+  },
+  {
+    "id": 3,
+    "title": "大语言模型（LLM）学习笔记",
+    "content": "今天开始学习大语言模型（Large Language Model, LLM），主要了解以下内容：\n\n1. LLM是什么：基于海量文本数据训练的大型神经网络模型，能够理解和生成自然语言。\n2. 代表模型：GPT系列、BERT、LLaMA、ChatGLM等。\n3. 核心能力：文本生成、问答、翻译、摘要、代码编写等。\n4. 学习方向：Transformer架构、预训练与微调、Prompt工程、RAG等。\n\n继续加油学习！🚀",
+    "tags": [
+      "LLM",
+      "AI",
+      "学习笔记"
+    ],
+    "created_at": "2026-05-01T23:10:41.670493",
+    "updated_at": "2026-05-01T23:10:41.670493"
+  }
+]
